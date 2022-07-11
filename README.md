@@ -12,5 +12,5 @@ The tasks in the app are being stored in the local storage of the phone using SQ
 
 ## Find me
 **Krishna Bhatt**
-- Linkedin: [krishnabhatt](https://www.linkedin.com/in/krishnabhatt4/)
-- kaggle: [krishnabhatt](https://www.kaggle.com/krishnabhatt4)
+- Linkedin: [LinedIn](https://www.linkedin.com/in/krishnabhatt4/)
+- kaggle: [kaggle](https://www.kaggle.com/krishnabhatt4)
