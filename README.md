@@ -1,7 +1,16 @@
-# to do flutter app
+# to do flutter app ✅
+
+## App info:
 A simple to do app made using flutter. 
 - Create Tasks
 - Update tasks
 - Delete tasks
 - Set priority level of tasks
-- Tasks being stored in the local storage of the app
+The tasks in the app are being stored in the local storage of the phone using SQL.
+
+## The App:
+
+## Find me
+**Krishna Bhatt**
+- Linkedin: [krishnabhatt](https://www.linkedin.com/in/krishnabhatt4/)
+- kaggle: [krishnabhatt](https://www.kaggle.com/krishnabhatt4)
