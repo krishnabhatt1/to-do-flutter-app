@@ -1,7 +1,7 @@
 # to do flutter app ✅
 
 ## App info:
-A to do app made using flutter. 
+A to do app made using flutter which has the following functionalities: 
 - Create Tasks
 - Update tasks
 - Delete tasks
